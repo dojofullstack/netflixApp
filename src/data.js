@@ -3,7 +3,7 @@
 
 export const data = [
   {
-    Title: 'The Avengers DEVELOPER',
+    Title: 'The Avengers DEVELOPER NEW VERSION 1.2',
     Year: '2012',
     Rated: 'PG-13',
     Released: '04 May 2012',
